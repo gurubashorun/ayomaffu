@@ -1,0 +1,35 @@
+{
+  "name": "btc-gig",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "babel": "^6.23.0",
+    "date-fns": "^2.29.3",
+    "date-fns-tz": "^2.0.0",
+    "deepmerge": "^4.3.1",
+    "emotion": "^11.0.0",
+    "eslint": "8.38.0",
+    "eslint-config-next": "13.3.0",
+    "hoist-non-react-statics": "^3.3.2",
+    "mystical": "^15.0.0",
+    "next": "13.3.0",
+    "next-seo": "^6.0.0",
+    "process": "^0.11.10",
+    "prop-types": "^15.8.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-is": "^18.2.0",
+    "react-query": "^3.39.3",
+    "sanity": "^3.8.3",
+    "scheduler": "^0.23.0",
+    "sentry": "^0.1.2",
+    "stylis": "^4.1.3",
+    "swc": "^1.0.11"
+  }
+}
